@@ -1,0 +1,22 @@
+{
+    "name": "povilas/csm-broker",
+    "description": "Lenovo E565 brokership to starter on unemployment position",
+    "type": "library",
+    "require": {
+        "phpunit/phpunit": "^9.5",
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "license": "GPL",
+    "autoload": {
+        "psr-4": {
+            "Povilas\\CsmBroker\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Povilas",
+            "email": "pbrilius@aol.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
